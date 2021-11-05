@@ -1,1 +1,3 @@
 Hi there this is first doc!
+
+Steps 2: Now the doc has been modified!
